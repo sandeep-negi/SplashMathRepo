@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Testing"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.340">
+  <properties />
+  
+  
+            <testcase name="loginDefaultSettings" time="16.340" classname="testCasesFiles.MathFactsChoices" />
+      
+</testsuite>
